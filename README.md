@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @satyamramani
-- 👀 I’m interested in Java Development
-- 🌱 I’m currently learning Java and Spring Boot
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently working on c# with .net application.
 - 💞️ I’m looking to collaborate on Open Source
 - 📫 Anyone can reach me at satyamramani58554@gmail.com
 
