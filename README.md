@@ -1,3 +1,6 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+
+
 - 👋 Hi, I’m @satyamramani
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently working on c# with .net application.
